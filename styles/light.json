@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "title": "Light Mode",
+  "settings": {
+    "color": {
+      "palette": [
+        { "slug": "primary",   "color": "#1e40af", "name": "Primary" },
+        { "slug": "secondary", "color": "#9333ea", "name": "Secondary" },
+        { "slug": "accent",    "color": "#f59e0b", "name": "Accent" },
+        { "slug": "neutral",   "color": "#f3f4f6", "name": "Neutral" },
+        { "slug": "dark",      "color": "#111827", "name": "Dark" }
+      ],
+      "background": "#ffffff",
+      "text": "#111827"
+    }
+  }
+}

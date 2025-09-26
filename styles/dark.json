@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "title": "Dark Mode",
+  "settings": {
+    "color": {
+      "palette": [
+        { "slug": "primary",   "color": "#93c5fd", "name": "Primary" },
+        { "slug": "secondary", "color": "#c084fc", "name": "Secondary" },
+        { "slug": "accent",    "color": "#fbbf24", "name": "Accent" },
+        { "slug": "neutral",   "color": "#374151", "name": "Neutral" },
+        { "slug": "dark",      "color": "#111827", "name": "Dark" }
+      ],
+      "background": "#111827",
+      "text": "#f3f4f6"
+    }
+  }
+}
